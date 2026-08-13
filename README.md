@@ -45,6 +45,12 @@ python gerenciador.py
 python -m unittest test_gerenciador.py -v
 ```
 
+## Demonstração visual
+
+> Fluxo real da aplicação apresentado em um terminal limpo para facilitar a leitura.
+
+![Demonstração do Python Task Manager](docs/demonstracao-terminal.svg)
+
 ## Exemplo do menu
 
 ```text
