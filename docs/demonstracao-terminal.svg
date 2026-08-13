@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="520" viewBox="0 0 960 520">
+  <rect width="960" height="520" rx="14" fill="#0d1117"/>
+  <rect width="960" height="48" rx="14" fill="#161b22"/>
+  <circle cx="28" cy="24" r="7" fill="#ff5f56"/><circle cx="52" cy="24" r="7" fill="#ffbd2e"/><circle cx="76" cy="24" r="7" fill="#27c93f"/>
+  <text x="480" y="30" text-anchor="middle" font-family="Segoe UI,Arial" font-size="15" fill="#8b949e">python-task-manager — terminal</text>
+  <g font-family="Consolas,Menlo,monospace" font-size="19" fill="#c9d1d9">
+    <text x="34" y="88" fill="#58a6ff">$ python gerenciador.py</text>
+    <text x="34" y="132" fill="#f0f6fc" font-weight="700">GERENCIADOR DE TAREFAS</text>
+    <text x="34" y="174">1 - Listar tarefas</text><text x="34" y="206">2 - Adicionar tarefa</text>
+    <text x="34" y="238">3 - Concluir tarefa</text><text x="34" y="270">4 - Remover tarefa</text>
+    <text x="34" y="302">0 - Sair</text>
+    <text x="34" y="350" fill="#58a6ff">Escolha uma opção: 1</text>
+    <rect x="24" y="374" width="912" height="104" rx="8" fill="#161b22" stroke="#30363d"/>
+    <text x="44" y="414"><tspan fill="#3fb950">1 [x]</tspan> Estudar fundamentos de Python</text>
+    <text x="44" y="452"><tspan fill="#d29922">2 [ ]</tspan> Evoluir projeto de segurança</text>
+  </g>
+</svg>
